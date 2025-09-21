@@ -144,7 +144,7 @@ To run this project, perform the following tasks 😨
 
 Download the code file manually or via git
 ```bash
-git clone https://github.com/deepakpadhi986/AI-Resume-Analyzer.git
+git clone https://github.com/pujitha-katakam/AI_Resume_Analyzer.git
 ```
 
 Create a virtual environment and activate it **(recommended)**
