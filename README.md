@@ -33,7 +33,7 @@
 
 ## About the Project 🥱
 <div align="center">
-    <br/><img src="https://github.com/pujitha-katakam/AI_Resume_Analyzer/blob/main/screenshots/RESUME.png" alt="screenshot" /><br/><br/>
+    <br/><img src="https://www.google.com/imgres?q=resume%20analyzer&imgurl=https%3A%2F%2Fi.pinimg.com%2F564x%2F8f%2F28%2F32%2F8f2832665600d555863909ea551ba234.jpg&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fnew-resume-analyzer-logo--876442777474448679%2F&docid=EfJ0z4YPUNqy6M&tbnid=aPObddB4RuJkHM&vet=12ahUKEwib3OrLo-qPAxXnwTgGHQFwIK84ChAzegQISRAA..i&w=500&h=500&hcb=2&ved=2ahUKEwib3OrLo-qPAxXnwTgGHQFwIK84ChAzegQISRAA" alt="screenshot" /><br/><br/>
     <p align="justify"> 
       A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
